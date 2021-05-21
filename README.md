@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cxtmp
-- 👀 I’m interested in computer music
+- I ❤ computer music
 - 🌱 I’m currently learning Supercollider
 
 <!---
