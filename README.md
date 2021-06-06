@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cxtmp
 - 👀 I love computer music
-- 🌱 I’m currently learning Supercollider
+- 🌱 I’m currently learning SuperCollider
 
 <!---
 cxtmp/cxtmp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
